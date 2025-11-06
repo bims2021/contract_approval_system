@@ -1,0 +1,8 @@
+fastapi uvicorn "uvicorn[standard]"     
+langgraph
+langchain
+langchain-openai
+PyPDF2
+httpx
+streamlit
+gradio
